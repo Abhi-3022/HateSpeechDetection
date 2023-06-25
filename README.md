@@ -1,7 +1,4 @@
 # HateSpeechDetection
-
-GitHub Project Description: Hate Speech Detection using Python
-
 This project offers a Python implementation for detecting hate speech in textual data, utilizing the power of numpy, pandas, nltk, re, matplotlib, and scikit-learn (sklearn) libraries. It provides a comprehensive solution to identify and mitigate hate speech, contributing to the creation of safer and more inclusive online communities.
 
 Key Features:
